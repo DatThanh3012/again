@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\lap_trinh\\app koi(2)\\test1\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\lap_trinh\\app koi(2)\\test1\\wwwroot\\img\\background.jpg",
+      "PackagePath": "staticwebassets\\img\\background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\lap_trinh\\app koi(2)\\test1\\wwwroot\\img\\blog.png",
+      "PackagePath": "staticwebassets\\img\\blog.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\lap_trinh\\app koi(2)\\test1\\wwwroot\\img\\dashboard.png",
+      "PackagePath": "staticwebassets\\img\\dashboard.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\lap_trinh\\app koi(2)\\test1\\wwwroot\\img\\feed.png",
+      "PackagePath": "staticwebassets\\img\\feed.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\lap_trinh\\app koi(2)\\test1\\wwwroot\\img\\heart.png",
+      "PackagePath": "staticwebassets\\img\\heart.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\lap_trinh\\app koi(2)\\test1\\wwwroot\\img\\pond.png",
+      "PackagePath": "staticwebassets\\img\\pond.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\lap_trinh\\app koi(2)\\test1\\wwwroot\\img\\report.png",
+      "PackagePath": "staticwebassets\\img\\report.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\lap_trinh\\app koi(2)\\test1\\wwwroot\\img\\salt.png",
+      "PackagePath": "staticwebassets\\img\\salt.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\lap_trinh\\app koi(2)\\test1\\wwwroot\\img\\shop.png",
+      "PackagePath": "staticwebassets\\img\\shop.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\lap_trinh\\app koi(2)\\test1\\wwwroot\\img\\user.png",
+      "PackagePath": "staticwebassets\\img\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\lap_trinh\\app koi(2)\\test1\\wwwroot\\js\\index.js",
+      "PackagePath": "staticwebassets\\js\\index.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.test1.props",
+      "PackagePath": "build\\test1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.test1.props",
+      "PackagePath": "buildMultiTargeting\\test1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.test1.props",
+      "PackagePath": "buildTransitive\\test1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.test1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
